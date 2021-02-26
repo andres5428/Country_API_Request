@@ -1,4 +1,12 @@
+/**
+ * Imports
+ */
 import React from "react";
+
+/**
+ * @method Card
+ * @description Card component that contains the data from each country
+ */
 
 const Card = ({ data }) => {
   return (
